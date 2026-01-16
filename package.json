@@ -6,7 +6,8 @@
   "type": "module",
   "scripts": {
     "dev": "vitepress dev docs --host 0.0.0.0",
-    "build": "NODE_OPTIONS=--max-old-space-size=24576 vitepress build docs"
+    "build": "NODE_OPTIONS=--max-old-space-size=24576 vitepress build docs",
+    "deploy": "vitepress build docs && gh-pages -d docs/.vitepress/dist"
   },
   "devDependencies": {
     "@giscus/vue": "^3.1.1",
