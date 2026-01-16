@@ -1,16 +1,16 @@
 English | [简体中文](README.md)
 
-<h1 align="center">open-blog</h1>
+<h1 align="center">howtostartopensource</h1>
 
 <div align="center">
 
 [![Auth](https://img.shields.io/badge/Auth-eryajf-ff69b4)](https://github.com/eryajf)
-[![GitHub Issues](https://img.shields.io/github/issues/eryajf/open-blog.svg)](https://github.com/eryajf/open-blog/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/eryajf/open-blog)](https://github.com/eryajf/open-blog/pulls)
-[![GitHub Pull Requests](https://img.shields.io/github/stars/eryajf/open-blog)](https://github.com/eryajf/open-blog/stargazers)
-[![GitHub license](https://img.shields.io/github/license/eryajf/open-blog)](https://github.com/eryajf/open-blog/blob/main/LICENSE)
-[![HitCount](https://views.whatilearened.today/views/github/eryajf/open-blog.svg)](https://github.com/eryajf/open-blog)
-[![website eryajf.github.io/open-blog](https://img.shields.io/website-up-down-green-red/http/eryajf.github.io/open-blog.svg)](https://howtosos.eryajf.net/)
+[![GitHub Issues](https://img.shields.io/github/issues/eryajf/howtostartopensource.svg)](https://github.com/eryajf/howtostartopensource/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/eryajf/howtostartopensource)](https://github.com/eryajf/howtostartopensource/pulls)
+[![GitHub Pull Requests](https://img.shields.io/github/stars/eryajf/howtostartopensource)](https://github.com/eryajf/howtostartopensource/stargazers)
+[![GitHub license](https://img.shields.io/github/license/eryajf/howtostartopensource)](https://github.com/eryajf/howtostartopensource/blob/main/LICENSE)
+[![HitCount](https://views.whatilearened.today/views/github/eryajf/howtostartopensource.svg)](https://github.com/eryajf/howtostartopensource)
+[![website eryajf.github.io/howtostartopensource](https://img.shields.io/website-up-down-green-red/http/eryajf.github.io/howtostartopensource.svg)](https://howtosos.eryajf.net/)
 [![](https://img.shields.io/badge/Awesome-MyStarList-c780fa?logo=Awesome-Lists)](https://github.com/eryajf/awesome-stars-eryajf#readme)
 
 </div>

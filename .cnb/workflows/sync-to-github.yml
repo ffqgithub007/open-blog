@@ -14,5 +14,5 @@ main:
             auth_type: https
             username: ${GIT_USERNAME}
             password: ${GIT_ACCESS_TOKEN}
-            target_url: https://github.com/eryajf/open-blog.git
+            target_url: https://github.com/eryajf/howtostartopensource.git
             git_email: 'github-actions[bot]@users.noreply.github.com'

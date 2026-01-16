@@ -46,7 +46,7 @@ const teekConfig = defineTeekConfig({
     provider: "giscus",
     options: {
       // giscus 配置，官网：https://giscus.app/zh-CN
-      repo: 'eryajf/open-blog', //仓库
+      repo: 'eryajf/howtostartopensource', //仓库
       repoId: 'R_kgDOHmCGvA', //仓库ID
       category: 'General', // 讨论分类
       categoryId: 'DIC_kwDOHmCGvM4CsgXS', //讨论分类ID
@@ -62,7 +62,7 @@ const teekConfig = defineTeekConfig({
   },
   markdown: {
     demo: {
-      githubUrl: "https://github.com/eryajf/open-blog/blob/main/docs",
+      githubUrl: "https://github.com/eryajf/howtostartopensource/blob/main/docs",
     },
   },
   siteAnalytics: [
@@ -89,7 +89,7 @@ export default defineConfig({
   cleanUrls: false,
   lastUpdated: true,
   lang: "zh-CN",
-  base: "/open-blog/",
+  base: "/",
   head: [
     ["link", { rel: "icon", type: "image/svg+xml", href: "/jenkins.svg" }],
     ["link", { rel: "icon", type: "image/png", href: "/jenkins.png" }],
@@ -183,14 +183,14 @@ export default defineConfig({
       },
       { text: '📝 我的博客', link: 'https://wiki.eryajf.net' },
     ],
-    socialLinks: [{ icon: "github", link: "https://github.com/eryajf/open-blog" }],
+    socialLinks: [{ icon: "github", link: "https://github.com/eryajf/howtostartopensource" }],
 
     search: {
       provider: "local",
     },
     editLink: {
       text: "在 GitHub 上编辑此页",
-      pattern: "https://github.com/eryajf/open-blog/edit/main/docs/:path",
+      pattern: "https://github.com/eryajf/howtostartopensource/edit/main/docs/:path",
     },
   },
 });

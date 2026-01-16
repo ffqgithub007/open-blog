@@ -17,7 +17,7 @@ hero:
       link: /01-basic-content/01-basic-configuration
     - theme: alt
       text: GitHub
-      link: https://github.com/eryajf/open-blog
+      link: https://github.com/eryajf/howtostartopensource
 
 features:
   - icon: 🙇
