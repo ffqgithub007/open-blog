@@ -27,7 +27,7 @@ date: 2022-07-25 21:08:45
 
   国内互联网名宿阮一峰先生创建的周刊，已经成为众多互联网人每周五必读的一个刊物，受众垂直且数量庞大，是最值得推荐的一个去处之一。且阮先生通常对于优秀项目，向来都是不吝推荐的，因此非常推荐在其项目的[issue](https://github.com/ruanyf/weekly/issues)当中进行个人项目的推介。
 
-  另外插一句：当前项目 [HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource) 也正是因为在周刊做了推荐，才得以在一天当中涨星近 300，然后登上了 GitHub Trending 的。
+  另外插一句：当前项目 [open-blog](https://github.com/eryajf/open-blog) 也正是因为在周刊做了推荐，才得以在一天当中涨星近 300，然后登上了 GitHub Trending 的。
 
   ![image_20220725_215059](/img/image_20220725_215059.png)
 

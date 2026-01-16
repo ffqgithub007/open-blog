@@ -1,16 +1,16 @@
 [English](./README-en.md) | 简体中文
 
-<h1 align="center">HowToStartOpenSource</h1>
+<h1 align="center">open-blog</h1>
 
 <div align="center">
 
 [![Auth](https://img.shields.io/badge/Auth-eryajf-ff69b4)](https://github.com/eryajf)
-[![GitHub Issues](https://img.shields.io/github/issues/eryajf/HowToStartOpenSource.svg)](https://github.com/eryajf/HowToStartOpenSource/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/eryajf/HowToStartOpenSource)](https://github.com/eryajf/HowToStartOpenSource/pulls)
-[![GitHub Pull Requests](https://img.shields.io/github/stars/eryajf/HowToStartOpenSource)](https://github.com/eryajf/HowToStartOpenSource/stargazers)
-[![GitHub license](https://img.shields.io/github/license/eryajf/HowToStartOpenSource)](https://github.com/eryajf/HowToStartOpenSource/blob/main/LICENSE)
-[![HitCount](https://views.whatilearened.today/views/github/eryajf/HowToStartOpenSource.svg)](https://github.com/eryajf/HowToStartOpenSource)
-[![website eryajf.github.io/HowToStartOpenSource](https://img.shields.io/website-up-down-green-red/http/eryajf.github.io/HowToStartOpenSource.svg)](https://howtosos.eryajf.net/)
+[![GitHub Issues](https://img.shields.io/github/issues/eryajf/open-blog.svg)](https://github.com/eryajf/open-blog/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/eryajf/open-blog)](https://github.com/eryajf/open-blog/pulls)
+[![GitHub Pull Requests](https://img.shields.io/github/stars/eryajf/open-blog)](https://github.com/eryajf/open-blog/stargazers)
+[![GitHub license](https://img.shields.io/github/license/eryajf/open-blog)](https://github.com/eryajf/open-blog/blob/main/LICENSE)
+[![HitCount](https://views.whatilearened.today/views/github/eryajf/open-blog.svg)](https://github.com/eryajf/open-blog)
+[![website eryajf.github.io/open-blog](https://img.shields.io/website-up-down-green-red/http/eryajf.github.io/open-blog.svg)](https://howtosos.eryajf.net/)
 [![](https://img.shields.io/badge/Awesome-MyStarList-c780fa?logo=Awesome-Lists)](https://github.com/eryajf/awesome-stars-eryajf#readme)
 
 </div>
@@ -29,7 +29,7 @@
 
 在线版站点基于 EdgeOne Pages 构建，可点击如下链接快速尝试：
 
-[![使用 EdgeOne Pages 部署](https://cdnstatic.tencentcs.com/edgeone/pages/deploy.svg)](https://edgeone.ai/pages/new?repository-url=https://github.com/eryajf/HowToStartOpenSource)
+[![使用 EdgeOne Pages 部署](https://cdnstatic.tencentcs.com/edgeone/pages/deploy.svg)](https://edgeone.ai/pages/new?repository-url=https://github.com/eryajf/open-blog)
 
 `首页：`
 
