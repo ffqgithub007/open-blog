@@ -89,7 +89,7 @@ export default defineConfig({
   cleanUrls: false,
   lastUpdated: true,
   lang: "zh-CN",
-  base: "/",
+  base: "/open-blog/",
   head: [
     ["link", { rel: "icon", type: "image/svg+xml", href: "/jenkins.svg" }],
     ["link", { rel: "icon", type: "image/png", href: "/jenkins.png" }],
