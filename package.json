@@ -12,6 +12,7 @@
   "devDependencies": {
     "@giscus/vue": "^3.1.1",
     "echarts": "^5.6.0",
+    "gh-pages": "^6.3.0",
     "sass": "^1.89.1",
     "vitepress": "^1.6.4"
   },
